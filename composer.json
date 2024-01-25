@@ -1,28 +1,6 @@
 {
-    "name": "cbh/uiscom-api-client",
-    "type": "library",
-    "description": "PHP client for UIS Api",
-    "authors": [
-        {
-            "name": "Evgeny Zheleznyakov",
-            "email": "evg@smartis.bi"
-        },
-        {
-            "name": "Anton Kirin",
-            "email": "a.kirin@smartis.bi"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "CBH\\UiscomClient\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "CBH\\UiscomClient\\Tests\\": "tests/"
-        }
-    },
-    "minimum-stability": "dev",
+   "name": "AlexanderNikonov/uiscom-api-client",
+   "version": "dev-master"
     "require": {
         "php": ">=7.1",
         "ext-curl": "*",
@@ -34,7 +12,5 @@
         "monolog/monolog": "^1.23",
         "guzzlehttp/guzzle": "^6.5"
     },
-    "scripts": {
-        "test": "phpunit --configuration phpunit.xml"
-    }
+   
 }
