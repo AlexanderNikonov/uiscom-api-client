@@ -2,11 +2,7 @@
     "name": "alexandernikonov/uiscom-api-client",
     "type": "library",
     "minimum-stability": "dev"
-    "autoload": {
-        "psr-4": {
-            "alexandernikonov\\uiscom-api-client": "src/"
-        }
-    },
+
     "require": {
          "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.5"
