@@ -33,7 +33,4 @@
         "monolog/monolog": "^1.23",
         "guzzlehttp/guzzle": "^6.5"
     },
-    "scripts": {
-        "test": "phpunit --configuration phpunit.xml"
-    }
 }
