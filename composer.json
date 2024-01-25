@@ -1,6 +1,6 @@
 {
     "name": "AlexanderNikonov/uiscom-api-client",
-    "type": "library",
+    "type": "package",
     "description": "PHP client for UIS Api",
     "authors": [
         {
