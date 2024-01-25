@@ -1,16 +1,15 @@
+
 {
-   "name": "AlexanderNikonov/uiscom-api-client",
-   "version": "dev-master"
-    "require": {
-        "php": ">=7.1",
-        "ext-curl": "*",
-        "psr/log": "^1.0",
-        "ext-json": "*"
+  "require": {
+    "AlexanderNikonov/uiscom-api-client": "dev-master"
+  },
+  "repositories": [
+    {
+      "packagist.org": false
     },
-    "require-dev": {
-        "phpunit/phpunit": "^7.4",
-        "monolog/monolog": "^1.23",
-        "guzzlehttp/guzzle": "^6.5"
-    },
-   
+    {
+      "type": "path",
+      "url": "AlexanderNikonov/"
+    }
+  ]
 }
