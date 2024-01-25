@@ -1,5 +1,5 @@
 {
-    "name": "alexandernikonov/uiscom-api-client",
+    "name": "AlexanderNikonov/uiscom-api-client",
     "type": "library",
     "description": "PHP client for UIS Api",
     "authors": [
