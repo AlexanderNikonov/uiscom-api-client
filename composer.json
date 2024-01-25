@@ -1,10 +1,10 @@
 {
-    "name": "AlexanderNikonov/uiscom-api-client",
+    "name": "alexandernikonov/uiscom-api-client",
     "type": "library",
     "minimum-stability": "dev"
     "autoload": {
         "psr-4": {
-            "AlexanderNikonov\\UiscomClient\\": "src/"
+            "alexandernikonov\\uiscom-api-client": "src/"
         }
     },
     "require": {
